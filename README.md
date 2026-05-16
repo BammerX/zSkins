@@ -1,4 +1,4 @@
 # zSkins
-High contrast dark themes for zTracker classic.
+High contrast dark themes for zTracker.
 
 Om fresh with your new wallpaper.
